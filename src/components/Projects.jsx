@@ -29,7 +29,7 @@ export default function Card() {
               <div className="w-1.5 h-1.5 bg-gray-400 rounded-full"></div>
               Projects
             </div>
-            <Link to={'http://localhost:3000/projects'} >
+            <Link to={'https://info-tan.vercel.app/projects'} >
             <button
               type="button"
               className="gap-x-2 text-gray-900 bg-white border border-gray-200 hover:border-gray-300 transition-all duration-300 focus:ring-4 focus:ring-gray-100 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center"
