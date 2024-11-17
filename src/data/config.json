@@ -1,0 +1,54 @@
+{
+  "job": "Full Stack Developer",
+  "name": "Kartik Tyagi",
+  "desc": "An ambitious Full Stack Developer creating scalable applications and robust APIs using the MERN stack.",
+  "aboutDesc": "Ambitious Full Stack Developer skilled in the MERN stack (MongoDB, Express.js, React.js, Node.js). Proficient in building scalable applications, RESTful APIs, and managing databases. Well-versed in data structures, algorithms, and SDLC, eager to apply innovative solutions in collaborative environments.",
+  "email": "s11kartik2111087@gmail.com",
+  "status": "on",
+  "hireMeLink": "https://linkedin.com/in/kartik-tyagi-a96929205/",
+  "projects": [
+  {
+    "project-image-url": "https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png",
+    "project-name": "KA-Solutions",
+    "project-desc": "An e-commerce platform designed for B2B and B2C interactions, providing businesses with a seamless online marketplace. The project was built using React for an interactive, dynamic frontend, and Node.js for handling server-side operations efficiently. MongoDB served as the database, ensuring scalable and flexible data storage. User authentication and authorization were secured using JWT, providing a robust layer of security. Integrated payment gateway solutions were implemented to facilitate secure and efficient transactions. The project included features like product catalog management, order tracking, user role management, and search functionality to enhance user experience.",
+    "technologies-used": "React Node.js Express.js MongoDB JWT Payment Gateway-Integration",
+    "project-git": "https://github.com/KartikAKGEC89/KA-Solutions"
+  },
+  {
+    "project-image-url": "https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png",
+    "project-name": "StartUpBoard",
+    "project-desc": "A real-time video conferencing platform tailored for small startups to enable smooth communication and collaboration. The platform utilized WebRTC for real-time video and audio streaming, ensuring minimal latency and high-quality interactions. JWT was used for secure user authentication, maintaining the integrity of user sessions. Socket.io facilitated low-latency data transmission for seamless communication between users. The project included features like participant management, screen sharing, and in-call chat. A responsive and intuitive UI was designed using Tailwind, ensuring compatibility across devices and improving user engagement.",
+    "technologies-used": "React Node.js WebRTC Socket.io JWT Tailwind",
+    "project-git": "https://github.com/KartikAKGEC89/StartUpBoard"
+  },
+  {
+    "project-image-url": "https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png",
+    "project-name": "Clipwise",
+    "project-desc": "A robust and visually appealing platform for video clipping and sharing, designed to meet the needs of content creators. The project featured a highly scalable architecture focused on optimizing performance. React was used for developing an interactive and user-friendly frontend, while Node.js powered the backend services, handling user requests and video processing tasks. CSS was used for crafting a visually appealing design with a responsive layout to ensure functionality across various devices. Additional features included video editing tools, user authentication, and a dashboard for managing clips effectively.",
+    "technologies-used": "React Node.js Express.js CSS Responsive Design",
+    "project-git": "https://github.com/KartikAKGEC89/Clipwise-Off-Campus"
+  },
+  {
+    "project-image-url": "https://i.pinimg.com/originals/4c/44/39/4c443992f6106654fc270b3ca708d29e.png",
+    "project-name": "ICNation",
+    "project-desc": "A comprehensive company website created for a home automation business, focusing on showcasing services, products, and client testimonials. The project also included developing an advanced dashboard for managing company operations, tracking customer interactions, and analyzing sales data. Built using modern web technologies such as React for the user interface, Node.js for server-side processing, and MongoDB for the database. Integrated real-time data visualization tools and secure user authentication to ensure a seamless user experience.",
+    "technologies-used": "React Node.js Express.js MongoDB Data Visualization User Authentication",
+    "project-git": "https://github.com/Abhi-codex/icnation"
+  }
+]
+,
+  "social": [
+    {
+      "icon": "FaComputer",
+      "link": "https://leetcode.com/u/GokuSaiyanZ/"
+    },
+    {
+      "icon": "FaGithub",
+      "link": "https://github.com/KartikAKGEC89"
+    },
+    {
+      "icon": "FaLinkedinIn",
+      "link": "https://www.linkedin.com/in/kartik-tyagi-a96929205/"
+    }
+  ]
+}
